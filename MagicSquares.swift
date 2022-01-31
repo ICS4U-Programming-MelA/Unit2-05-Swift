@@ -91,7 +91,7 @@ func magicSquares(magicSquareArray: [Int], extraArray: [Int], wizardNum: Int) {
   }
 }
 
-// Declare the lists.
+// Declare the arrays.
 let numArray: [Int] = Array(repeating: 0, count: 9)
 let freeSpaceArray: [Int] = Array(repeating: 0, count: numArray.count)
 
